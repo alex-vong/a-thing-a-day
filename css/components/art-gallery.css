@@ -1,0 +1,26 @@
+
+
+
+art-wall {
+   display:  grid;
+   grid-template-columns: repeat(1, 1fr);
+
+   gap:  20px;
+}
+
+
+art-wall picture {
+   border:  5px solid #a7a3a0;
+
+}
+
+
+@media (min-width: 768px) {
+   art-wall {
+      display:  grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+   }  
+
+
+}

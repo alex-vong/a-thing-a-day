@@ -1,0 +1,28 @@
+.site-header {
+   background-color: var(--secondary);
+   padding: 15px;
+   color:  var(--white);
+}
+
+
+masthead .site-menu {
+   display:  flex;
+   align-items: center;
+   
+   gap:  10px;
+
+}
+
+masthead .logo picture {
+   height:  55px;
+   width:  50px;
+   /*background-color: var(--white);*/
+   border-radius: 50%;
+
+}
+
+hero-stuff .hero-monologue {
+   display:  flex;
+   flex-direction: column;
+   gap: 10px;
+}
