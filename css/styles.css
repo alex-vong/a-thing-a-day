@@ -1,0 +1,56 @@
+/* RESET */
+@import 'meyer-reset.css';
+@import 'setup.css';
+
+/* DEV temp styles */
+/*@import 'developer-styles.css'; */
+/* comment this ^ out - when you are ready */
+
+/* SETTINGS */
+@import 'settings.css'; /* variables/ etc */
+
+/* STRUCTURE */
+@import 'structure.css';
+
+/* TYPOGRAPHY */
+@import 'typography.css';
+
+/* COMPONENTS */
+@import 'components.css';
+@import 'components/site-header.css';
+@import 'components/hero.css';
+@import 'components/art-gallery.css';
+
+
+/* ? */
+@import 'header.css';
+@import 'footer.css';
+
+/* MODULES */
+@import '../modules/masthead/style.css';
+
+
+
+@import 'meyers-reset.css';
+@import 'reset.css';
+
+.hero-section {
+   margin-bottom:  40px;
+}
+
+hero-stuff h1 {
+   padding:  var(--space-xs-s) 0;
+}
+
+
+
+
+.goals li {
+   list-style: circle;
+}
+
+
+
+
+
+
