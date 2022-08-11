@@ -53,7 +53,129 @@ $gallery = [
 		"id" => 10,
 		"day" => 10,
 		"piece" => 'images/day-10.svg',
-	]
+	],
+
+	[
+		"id" => 11,
+		"day" => 11,
+		"piece" => 'images/day-11.svg',
+	],
+
+	[
+		"id" => 12,
+		"day" => 12,
+		"piece" => 'images/day-12.svg',
+	],
+
+	[
+		"id" => 13,
+		"day" => 13,
+		"piece" => 'images/day-13.svg',
+	],
+
+	[
+		"id" => 14,
+		"day" => 14,
+		"piece" => 'images/day-14.svg',
+	],
+
+	[
+		"id" => 15,
+		"day" => 15,
+		"piece" => 'images/day-15.svg',
+	],
+
+	[
+		"id" => 16,
+		"day" => 16,
+		"piece" => 'images/day-16.svg',
+	],
+
+	[
+		"id" => 17,
+		"day" => 17,
+		"piece" => 'images/day-17.svg',
+	],
+
+	[
+		"id" => 18,
+		"day" => 18,
+		"piece" => 'images/day-18.svg',
+	],
+
+	[
+		"id" => 19,
+		"day" => 19,
+		"piece" => 'images/day-19.svg',
+	],
+
+	[
+		"id" => 20,
+		"day" => 20,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 21,
+		"day" => 21,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 22,
+		"day" => 22,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 23,
+		"day" => 23,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 24,
+		"day" => 24,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+[
+		"id" => 25,
+		"day" => 25,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 26,
+		"day" => 26,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 27,
+		"day" => 27,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 28,
+		"day" => 28,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 29,
+		"day" => 29,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+	[
+		"id" => 30,
+		"day" => 30,
+		"piece" => 'images/coming-soon.svg',
+	],
+
+
 
 
 ]
