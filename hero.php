@@ -3,11 +3,6 @@
 
 	<section class="hero-monologue">
 
-		<div class="about">
-			<h3 class="stout-voice">About</h3>
-			<p class="calm-voice">Inspired by this <a href="https://perpetual.education/exercises/thing-a-day/">article</a> written by Derek from Perertual Education's "Design for the Web" Mentorship</p>
-		</div>
-
 		<div class="rules">
 			<h3 class="stout-voice">Rules</h3>
 			<p class="calm-voice">Just make a thing a day. That's it! Oh and don't give up!</p>
