@@ -112,7 +112,7 @@ $gallery = [
 	[
 		"id" => 20,
 		"day" => 20,
-		"piece" => 'images/coming-soon.svg',
+		"piece" => 'images/day-20.svg',
 	],
 
 	[
